@@ -1,2 +1,0 @@
-# dating-site
-TDLOG project
